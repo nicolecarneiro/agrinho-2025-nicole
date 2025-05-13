@@ -6,13 +6,13 @@ padding: 0;
 }
 /* setup das variaveis*/
 :root {
---verde-fundo: #deece7;
+--verde-fundo: #cbc7d3;
 --branco-principal: #ffffff;
 --fonte-principal: "Lustria";
---verde-principal: #5fb13b;
---azul-principal: #0169b4;
---verde-secundario: #313a22;
---link: #0a4804;
+--verde-principal: #b9b7cf;
+--azul-principal: #051d2e;
+--verde-secundario: lch(5.55% 46.92 305.33);
+--link: #7d8ce4;
 --preto-titulo: #000;
 }
 
