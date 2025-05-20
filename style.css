@@ -45,6 +45,7 @@ a:active {
 text-decoration: none;
 }
 
+
 /*estilo dos containers genericos*/
 .container {
 margin-top: 50px;
@@ -64,8 +65,7 @@ background-repeat: no-repeat;
 background-position: center center;
 }
 .logo__principal {
-margin-top: 100px;
-margin-left: 50px;
+max-width: 80%;
 }
 .texto__cabecalho {
 text-align: center;
