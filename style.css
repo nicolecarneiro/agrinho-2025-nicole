@@ -65,9 +65,8 @@ background-repeat: no-repeat;
 background-position: center center;
 }
 .logo__principal {
-max-height: 150px; /* Define uma altura máxima */
-  width: auto;       /* A largura se ajusta automaticamente */
-  object-fit: contain;
+max-width: 100%;
+
 }
 .texto__cabecalho {
 text-align: center;
